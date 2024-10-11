@@ -9,5 +9,5 @@
 | [02. Анализ бизнес-показателей]()|.......|Matplotlib, Pandas, Python, Seaborn, когортный анализ, продуктовые метрики, юнит-экономика. Обработка данных, статистический тест, LTV, CAC, когортный анализ|
 | [03. Принятие решений в бизнесе]()|.....|A/B-тестирование, Matplotlib, Pandas, Python, SciPy, проверка статистических гипотез. A/B-тест, статистический тест, фреймворк, RICE, ICE|
 | [04. Сборный проект № 2]()|.....|Pandas, Plotly, Python, Seaborn, визуализация данных. Обработка данных, визуализация данных, создание презентаций|
-| [05. Анализ рынка заведений общественного питания Москвы]()|.....|Python, Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация. KMeans, Machine Learning, дендрограмма, RandomForestClassifier, LogisticRegression|
+| [05. Анализ рынка заведений общественного питания Москвы]()|.....|Python, Pandas, Matplotlib, Seaborn|
 | [06. e-commerce]()|......| Python, Pandas, Scikit-learn, Matplotlib, Seaborn, машинное обучение, классификация, кластеризация, KMeans, Machine Learning, дендрограмма, RandomForestClassifier, LogisticRegression, Tableau, визуализация |
